@@ -1,5 +1,11 @@
-# projetoaulagit
+# Apresentação
+
 trabalhando com a ferramenta de versionamento 
+
 ## objetivo
 
-apresentar as principais funcionalidades do git
+Apresentar as principais funcionalidades do git
+
+## Colaboradores
+
+*  Miguel Angelus
