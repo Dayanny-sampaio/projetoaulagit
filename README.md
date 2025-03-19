@@ -10,3 +10,8 @@ Apresentar as principais funcionalidades do git
 
 * Sofia Hatsumi Kumamoto Silva
 *  bostinha angu
+*  Fulano D´Town
+*  Jojo Toddynho
+*  Fulano D´Town
+*  Jojo Todyynho
+*  EU SOU JOJO
